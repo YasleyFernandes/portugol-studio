@@ -1,6 +1,13 @@
 programa
 {
-	
+	/*
+	3) Crie um programa que leia o nome e o salário de um funcionário, mostrando no
+	final uma mensagem.
+	Ex:
+	Nome do Funcionário: Maria do Carmo
+	Salário: 1850,45
+	O funcionário Maria do Carmo tem um salário de R$1850,45 em Junho.
+	 */
 	funcao inicio()
 	{
 		cadeia nome_do_funcionario = "Corno"
@@ -13,7 +20,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 219; 
+ * @POSICAO-CURSOR = 449; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

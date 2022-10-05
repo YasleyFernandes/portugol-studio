@@ -1,9 +1,11 @@
 programa
 {
-	
+	/*
+	20) Desenvolva um programa que leia um número inteiro e mostre se ele é PAR ou
+	ÍMPAR.
+	*/
 	funcao inicio()
-	//Desenvolva um programa que leia um número inteiro e mostre se ele é PAR ou
-	//ÍMPAR.
+
 	{
 		inteiro numero
 		escreva("Me diga um número: ")
@@ -22,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 121; 
+ * @POSICAO-CURSOR = 20; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

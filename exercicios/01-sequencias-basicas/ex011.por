@@ -1,7 +1,10 @@
 programa
 {
 	inclua biblioteca Matematica --> mat
-	
+	/*
+	11) Desenvolva uma lógica que leia os valores de A, B e C de uma equação do
+	segundo grau e mostre o valor de Delta.
+	*/
 	funcao inicio()
 	{
 		//Delta = B2 - 4ac / Equação segundo grau = ax2+bx+c=0  x=-b+-Raiz de Delta / 2a
@@ -39,7 +42,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1215; 
+ * @POSICAO-CURSOR = 54; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

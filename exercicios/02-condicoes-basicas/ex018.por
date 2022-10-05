@@ -1,9 +1,11 @@
 programa
 {
-	
+	/*
+	18) Faça um programa que leia o ano de nascimento de uma pessoa, calcule a idade
+	dela e depois mostre se ela pode ou não votar.
+	*/
 	funcao inicio()
-	//Faça um programa que leia o ano de nascimento de uma pessoa, calcule a idade
-	//dela e depois mostre se ela pode ou não votar.
+
 	{
 		inteiro ano_de_nascimento, idade, anos_que_faltam
 		escreva("Em que ano você nasceu? " )
@@ -22,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 630; 
+ * @POSICAO-CURSOR = 148; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

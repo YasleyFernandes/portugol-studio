@@ -1,10 +1,12 @@
 programa
 {
-	
+	/*
+	15) Crie um programa que leia o número de dias trabalhados em um mês e mostre o
+	salário de um funcionário, sabendo que ele trabalha 8 horas por dia e ganha R$25
+	por hora trabalhada.
+	*/
 	funcao inicio()
-	//Crie um programa que leia o número de dias trabalhados em um mês e mostre o
-	//salário de um funcionário, sabendo que ele trabalha 8 horas por dia e ganha R$25
-	//por hora trabalhada.
+
 	{
 		inteiro dias_trabalhados
 		real salario 
@@ -21,7 +23,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 287; 
+ * @POSICAO-CURSOR = 20; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

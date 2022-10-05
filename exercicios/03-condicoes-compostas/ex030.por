@@ -2,11 +2,13 @@ programa
 {
 	
 	funcao inicio()
-	//Refaça o algoritmo 25, acrescentando o recurso de mostrar que tipo
-	//de triângulo será formado:
- 	//- EQUILÁTERO: todos os lados iguais
- 	//- ISÓSCELES: dois lados iguais
- 	//- ESCALENO: todos os lados diferentes
+	/*
+	30) Refaça o algoritmo 25, acrescentando o recurso de mostrar que tipo
+	de triângulo será formado:
+ 	- EQUILÁTERO: todos os lados iguais
+ 	- ISÓSCELES: dois lados iguais
+ 	- ESCALENO: todos os lados diferentes
+ 	*/
 
 	{
 		real reta1, reta2, reta3, soma1, soma2, soma3
@@ -35,7 +37,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 941; 
+ * @POSICAO-CURSOR = 39; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

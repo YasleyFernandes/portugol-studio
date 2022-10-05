@@ -2,11 +2,13 @@ programa
 {
 	
 	funcao inicio()
-	//27) Crie um programa que leia duas notas de um aluno e calcule a sua média,
-	//mostrando uma mensagem no final, de acordo com a média atingida:
- 	//- Média até 4.9: REPROVADO
- 	//- Média entre 5.0 e 6.9: RECUPERAÇÃO
- 	//- Média 7.0 ou superior: APROVADO
+	/*
+	27) Crie um programa que leia duas notas de um aluno e calcule a sua média,
+	mostrando uma mensagem no final, de acordo com a média atingida:
+ 	- Média até 4.9: REPROVADO
+ 	- Média entre 5.0 e 6.9: RECUPERAÇÃO
+ 	- Média 7.0 ou superior: APROVADO
+ 	*/
 	{
 		real n1, n2, media
 		escreva("Qual a sua primeira nota? ")
@@ -28,7 +30,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 618; 
+ * @POSICAO-CURSOR = 35; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

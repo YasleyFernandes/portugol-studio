@@ -1,6 +1,11 @@
 programa
 {
-	
+	/*  
+	 2) Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boasvindas para ela:
+	Ex:
+	Qual é o seu nome? João da Silva
+	Olá João da Silva, é um prazer te conhecer!
+	 */
 	funcao inicio()
 	{
 		cadeia nome
@@ -18,7 +23,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 274; 
+ * @POSICAO-CURSOR = 461; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
